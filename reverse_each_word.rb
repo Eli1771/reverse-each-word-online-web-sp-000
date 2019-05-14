@@ -4,5 +4,4 @@ def reverse_each_word(sentence)
     reversed = []
     reversed << word.reverse
   end 
-  return array
 end 
